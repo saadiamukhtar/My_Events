@@ -22,3 +22,37 @@ Meet an enthusiastic and dedicated individual who thrives as both a passionate s
 <img src="./images/Photo8.jpeg"  width="30%" height="250px" style="object-fit:cover;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="./images/Photo9.jpeg"  width="30%" height="250px" style="object-fit:cover;" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+---
+
+## Events
+
+Here are a few of the Twitter Spaces that I've hosted thus far.
+
+* Title - Beyond the Screen- Why you must attend in person events?
+    
+    Link - [https://twitter.com/hackforcode/status/1634906823399718913?t=1vEYY2pPJeimafbmilqctg&s=19](https://twitter.com/hackforcode/status/1634906823399718913?t=1vEYY2pPJeimafbmilqctg&s=19)
+    
+* Title - Public Speaking? An Art-
+    
+    Link - [https://twitter.com/hackforcode/status/1634769642228178946?t=fYsPfNMjpl3lPrRnNbKuCA&s=19](https://twitter.com/hackforcode/status/1634769642228178946?t=fYsPfNMjpl3lPrRnNbKuCA&s=19)
+    
+* Title - Innovate, Create, Hack: Know All About the Hackathons
+    
+    Link - [https://twitter.com/hackforcode/status/1626580979661012993?t=1jkdYNJxs7W-oyY9jToucA&s=19](https://twitter.com/hackforcode/status/1626580979661012993?t=1jkdYNJxs7W-oyY9jToucA&s=19)
+    
+* Title - Tips and Tricks to manage Dev and DSA
+    
+    Link - [https://twitter.com/hackforcode/status/1624738456294539266?t=L2\_KC8BIDfHCYybrIVKbtg&s=19](https://twitter.com/hackforcode/status/1624738456294539266?t=L2_KC8BIDfHCYybrIVKbtg&s=19)
+    
+* Title - Open Source Opportunities
+    
+    Link - [https://twitter.com/hackforcode/status/1624738456294539266?t=L2\_KC8BIDfHCYybrIVKbtg&s=19](https://twitter.com/hackforcode/status/1624738456294539266?t=L2_KC8BIDfHCYybrIVKbtg&s=19)
+    
+* Title - Networking in Tech
+    
+    Link - [https://twitter.com/hackforcode/status/1622210976933363716?t=NhA1F5n\_iZbYeZcXcvdE7Q&s=19](https://twitter.com/hackforcode/status/1622210976933363716?t=NhA1F5n_iZbYeZcXcvdE7Q&s=19)
+    
+* Title - The power of learning in public
+    
+    Link- [https://twitter.com/hackforcode/status/1616793360236445697?t=V9F-sbcUYQki07\_ipKUj\_A&s=19](https://twitter.com/hackforcode/status/1616793360236445697?t=V9F-sbcUYQki07_ipKUj_A&s=19)

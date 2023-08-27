@@ -15,49 +15,43 @@ Meet an enthusiastic and dedicated individual who thrives as both a passionate s
 
 1. *Demystifying GitHub and Codespaces*
     
-    erajgf uyregfau uygsub uyrgauihrf uygrbfwiubrf uyrgfai rusgyfiwuh ugrwsihf ygeuy jhygayjwb
    <br><br>
    <img src="./images/Photo3.jpeg"  width="300px" height="350px" style="object-fit:cover; align:center;" />
     
-2. *Build a simple website to showcase your resume using GitHub*
-    
-    dfghbjknlm; es kuy dxzdaw kuyk kjhk gdyt jyiu loudt rstd uti teyrj utiu fst kuyo t yruj kjuyik kiyo
+2. *Getting Involved With Communities*
+ 
    <br><br>
    <img src="./images/Photo2.jpeg"  width="750px" height="450px" style="object-fit:cover; align:center;" />
 
-3. *Crating, Deploying and Testing Smart Contracts*
+3. *Introduction to GitHub and GitHub copilot*
     
-    dfghbjknlm; es kuy dxzdaw kuyk kjhk gdyt jyiu loudt rstd uti teyrj utiu fst kuyo t yruj kjuyik kiyo
+
    <br><br>
    <img src="./images/Photo1.jpeg"  width="550px" height="450px" style="object-fit:cover; align:center;" />
 
 4. *Introduction to Web Development*
     
-    dfghbjknlm; es kuy dxzdaw kuyk kjhk gdyt jyiu loudt rstd uti teyrj utiu fst kuyo t yruj kjuyik kiyo
+  
    <br><br>
    <img src="./images/Photo4.jpeg"  width="550px" height="450px" style="object-fit:cover; align:center;" />
 
-5. *Create website to showcase your resume*
+5. *Creating deploying and testing smart contracts with Truffle extension for VS code*
     
-    dfghbjknlm; es kuy dxzdaw kuyk kjhk gdyt jyiu loudt rstd uti teyrj utiu fst kuyo t yruj kjuyik kiyo
    <br><br>
    <img src="./images/Photo6.jpeg"  width="650px" height="450px" style="object-fit:cover; align:center;" />
 
-6. *Introduction to GitHub and GitHub Copilot*
+6. *Introduction to Azure and AI*
     
-    dfghbjknlm; es kuy dxzdaw kuyk kjhk gdyt jyiu loudt rstd uti teyrj utiu fst kuyo t yruj kjuyik kiyo
    <br><br>
    <img src="./images/Photo7.png"  width="650px" height="450px" style="object-fit:cover; align:center;" />
 
-7. *Getting Involved with Communities*
+7. *Build A simple website to showcase your Resume*
     
-    dfghbjknlm; es kuy dxzdaw kuyk kjhk gdyt jyiu loudt rstd uti teyrj utiu fst kuyo t yruj kjuyik kiyo
    <br><br>
    <img src="./images/Photo8.jpeg"  width="650px" height="450px" style="object-fit:cover; align:center;" />
 
-8. *Introduction to Azure and AI*
+9. *Create a Website to showcase your resume*
     
-    dfghbjknlm; es kuy dxzdaw kuyk kjhk gdyt jyiu loudt rstd uti teyrj utiu fst kuyo t yruj kjuyik kiyo
    <br><br>
    <img src="./images/Photo9.jpeg"  width="650px" height="450px" style="object-fit:cover; align:center;" />
 
